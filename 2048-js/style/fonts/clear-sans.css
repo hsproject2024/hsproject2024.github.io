@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Clear Sans";
+    src: url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Light-webfont.eot");
+    src: url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Light-webfont.eot?#iefix") format("embedded-opentype"),
+         url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Light-webfont.svg#clear_sans_lightregular") format("svg"),
+         url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Light-webfont.woff") format("woff");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Clear Sans";
+    src: url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Regular-webfont.eot");
+    src: url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Regular-webfont.eot?#iefix") format("embedded-opentype"),
+         url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Regular-webfont.svg#clear_sansregular") format("svg"),
+         url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Regular-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Clear Sans";
+    src: url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Bold-webfont.eot");
+    src: url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Bold-webfont.eot?#iefix") format("embedded-opentype"),
+         url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Bold-webfont.svg#clear_sansbold") format("svg"),
+         url("https://hsproject2024.github.io/2048-js/style/fonts/ClearSans-Bold-webfont.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+
