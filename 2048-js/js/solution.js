@@ -101,7 +101,7 @@ GameManager.prototype.findDownNonEmptyTile = function(x, yStart) {
 GameManager.prototype.moveUp = function () {
   for (var x = 0; x < this.size; ++x) {
     for (var y = 0; y < this.size; ++y) {
-      var nextTileIndex = this.findUpNonEmptyTile(x, y+1);
+      var nextTileIndex = this.findDownNonEmptyTile(x, y+1);
       if (nextTileIndex === -1) {
         break;
       }
